@@ -33,7 +33,7 @@
         "symfony/serializer": "~2.7@dev",
         "friendsofsymfony/rest-bundle": "~1.0",
         "jms/serializer-bundle": ">=0.11",
-        "dunglas/api-bundle": "dev-master",
+        "dunglas/api-bundle": "1.1.0",
         "sensio/framework-extra-bundle": "~3.0"
     },
     "suggest": {
@@ -47,6 +47,7 @@
         "psr-0": { "Nelmio\\ApiDocBundle": "" }
     },
     "target-dir": "Nelmio/ApiDocBundle",
+    "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
             "dev-master": "2.9.1"
